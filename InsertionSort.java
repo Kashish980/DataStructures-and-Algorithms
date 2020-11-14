@@ -33,8 +33,8 @@ class InsertionSort {
     { 
         int arr[] = { 12, 11, 13, 5, 6 }; 
   
-        InsertionSort ob = new InsertionSort(); 
-        ob.sort(arr); 
+        InsertionSort obj = new InsertionSort(); 
+        obj.sort(arr); 
   
         printArray(arr); 
     } 
